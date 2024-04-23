@@ -1,6 +1,6 @@
 ### Stephen Blevins
 
-**`Software Developer`**
+**`Software Engineer and Web Developer`**
 
 I'm a full-stack developer specializing in JavaScript and Java. All my projects are built from scratch, from planning and designing up to solving problems with code. I bring a robust skill set to software development. Proficient in MERN stack, Java, and its related technologies. Eager for a role where I can further expand my knowledge and skills while contributing effectively to innovative projects.
 
