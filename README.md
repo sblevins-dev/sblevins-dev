@@ -38,7 +38,7 @@ I started my coding journey when I was altering SEO for my real estate portfolio
 
 #
 
-![Codewars](https://github.r2v.ch/codewars?user=scblevins&top_languages=true&hide_clan=true&theme=gradient&animation=false)
+![Codewars](https://github.r2v.ch/codewars?user=sblevins-dev&top_languages=true&hide_clan=true&theme=gradient&animation=false)
 
 <!--
 **sblevins-dev/sblevins-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
