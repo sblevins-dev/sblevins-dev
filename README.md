@@ -21,6 +21,11 @@ I'm a full-stack developer specializing in JavaScript and Java. All my projects 
 
 #
 
+<details>
+  <summary><h3>My Coding Journey</h3></summary>
+  I started my coding journey when I was altering SEO for my real estate portfolio. I gained a passion for programming and during the pandemic, decided on a career change. I enrolled to gain my Bachelors of Science in Computer Information Systems with a specialization in Software Programming. While I atteneded school, I self taught through multiple avenues starting in Web Development with HTML, CSS, and JavaScript. Moved on to React and Node as a backend language. In coursework, I gained a love for Java and Object Oriented Programming. While I might be scattered, I love the challenge of building something with a new technology. I am eager to start my journey and am open to internships. Love to code, just give me a home where I can do it full-time. 😄
+</details>
+
 <!--
 **sblevins-dev/sblevins-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
