@@ -2,7 +2,9 @@
 
 :man_technologist: **`Software Developer`**
 
-I'm a full-stack developer specializing in JavaScript and Java. All my projects are built, starting from planning and designing up to solving problems with code. I bring a robust skill set to software development. Proficient in MERN stack, Java, and its related technologies. Eager for a role where I can further expand my knowledge and skills while contributing effectively to innovative projects.
+Full-Stack Developer | Specializing in JavaScript, Java, Angular & .NET
+
+I'm a full-stack developer with hands-on experience in building enterprise-grade applications from the ground up—starting with planning and design through to implementation and deployment. I bring a robust skill set in both frontend and backend development, with proficiency in the MERN stack, .NET, Angular, and Java-based technologies. I thrive on solving real-world problems with clean, scalable code and collaborating on innovative, impactful projects. I’m now seeking a role where I can continue to grow technically while making meaningful contributions to a strong development team.
 
 ---
 
@@ -35,7 +37,11 @@ I'm a full-stack developer specializing in JavaScript and Java. All my projects 
 
 <details>
 <summary><h3>My Coding Journey</h3></summary>
-I started my coding journey when I was altering SEO for my real estate portfolio. I gained a passion for programming and during the pandemic, decided on a career change. I enrolled to gain my Bachelors of Science in Computer Information Systems with a specialization in Software Programming. While I atteneded school, I self taught through multiple avenues starting in Web Development with HTML, CSS, and JavaScript. Moved on to React and Node as a backend language. In coursework, I gained a love for Java and Object Oriented Programming. While I might be scattered, I love the challenge of building something with a new technology. I am eager to start my journey and am open to internships. Love to code, just give me a home where I can do it full-time. 😄
+I began my coding journey by optimizing SEO for my real estate portfolio, which sparked a deep passion for software development. During the pandemic, I made the decision to pursue a career change and earned a Bachelor of Science in Computer Information Systems with a specialization in Software Programming.
+
+Throughout my studies, I immersed myself in self-learning—starting with web development using HTML, CSS, and JavaScript, and advancing to modern frameworks like React and Node.js. In parallel, I discovered a strong interest in Java and object-oriented design through my coursework.
+
+Most recently, I’ve been developing enterprise software using Angular and .NET technologies. I enjoy the challenge of learning new tools and building scalable, real-world applications. Whether it’s the front end or the back end, I love solving problems through code and am eager to continue growing in a full-time software development role. I’m also open to internship opportunities where I can contribute, learn, and make an impact.
 </details>
 
 #
