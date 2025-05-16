@@ -4,7 +4,7 @@
 
 Full-Stack Developer | Specializing in JavaScript, Java, Angular & .NET
 
-I'm a full-stack developer with hands-on experience in building enterprise-grade applications from the ground up—starting with planning and design through to implementation and deployment. I bring a robust skill set in both frontend and backend development, with proficiency in the MERN stack, .NET, Angular, and Java-based technologies. I thrive on solving real-world problems with clean, scalable code and collaborating on innovative, impactful projects. I’m now seeking a role where I can continue to grow technically while making meaningful contributions to a strong development team.
+I'm a full-stack developer with hands-on experience in building enterprise-grade applications with planning and design through to implementation and deployment. I bring a robust skill set in both frontend and backend development, with proficiency in the MERN stack, .NET, Angular, and Java-based technologies. I thrive on solving real-world problems with clean, scalable code and collaborating on innovative, impactful projects. I’m now seeking a role where I can continue to grow technically while making meaningful contributions to a strong development team.
 
 ---
 
